@@ -29,7 +29,8 @@
   import { ref, computed } from 'vue';
 
   const links = {
-    'Light Analog Clock': '/download-button-with-progress-bar',
+    'Download Button With Progress Bar': '/download-button-with-progress-bar',
+    'Download Button With Circular Progress Bar': '/download-button-with-circular-progress-bar',
   };
   
   // const tabs = Array.from({ length: 20 }, (_, i) => `Tab ${i + 1}`);
