@@ -32,6 +32,8 @@
     'Download Button With Progress Bar': '/download-button-with-progress-bar',
     'Download Button With Circular Progress Bar': '/download-button-with-circular-progress-bar',
     'Aqua Button': '/aqua-button-effect',
+    'Dark Realistic Switch': '/dark-realistic-switch',
+    'Light Realistic Switch': '/light-realistic-switch',
   };
   
   // const tabs = Array.from({ length: 20 }, (_, i) => `Tab ${i + 1}`);
@@ -41,7 +43,7 @@
   
   // const totalPages = computed(() => Math.ceil(tabs.length / tabsPerPage));
   
-  // const visibleTabs = computed(() =>
+  // const visibleTabs = computed(() =>1
   //   tabs.slice(
   //     (currentPage.value - 1) * tabsPerPage,
   //     currentPage.value * tabsPerPage
