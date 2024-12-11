@@ -32,6 +32,7 @@
     'Download Button With Progress Bar': '/download-button-with-progress-bar',
     'Download Button With Circular Progress Bar': '/download-button-with-circular-progress-bar',
     'Aqua Button': '/aqua-button-effect',
+    'Dark Realistic Switch': '/dark-realistic-switch',
   };
   
   // const tabs = Array.from({ length: 20 }, (_, i) => `Tab ${i + 1}`);
