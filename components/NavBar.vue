@@ -35,6 +35,8 @@ const links = {
   'Light Realistic Switch': '/light-realistic-switch',
   'Magnetic Button': '/magnetic-button',
   'Glassmorphism Button': '/glassmorphism-button-hover-effect',
+  'Download Button Animation': '/download-button-animation',
+  
 };
 
 const tabs = Object.keys(links);
