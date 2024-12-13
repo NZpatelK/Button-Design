@@ -36,6 +36,7 @@ const links = {
   'Magnetic Button': '/magnetic-button',
   'Glassmorphism Button': '/glassmorphism-button-hover-effect',
   'Download Button Animation': '/download-button-animation',
+  'booking-button': '/booking-button',
   
 };
 
