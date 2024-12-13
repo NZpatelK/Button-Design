@@ -14,7 +14,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 :root {
-    --button-color: #c05402;
+    --button-color: #c98702;
     --time: 400ms;
     --bag-height: 20px;
 }
@@ -27,7 +27,7 @@
     overflow: hidden;
     height: 100vh;
     width: 100vw;
-    background: #92c1ae;
+    background: #333;
 }
 
 .btn-cart {
@@ -44,8 +44,8 @@
     font-family: 'Poppins', sans-serif;
     font-weight: 500;
     position: relative;
-    cursor: pointer;
-}
+    cursor: pointer;}
+
 
 .btn-cart:before {
     content: "";
@@ -71,6 +71,8 @@
     background: var(--button-color);
     border-radius: 10px;
     transition: all var(--time) cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2);
+
 }
 
 .btn-cart:focus {
@@ -104,7 +106,7 @@
     position: absolute;
     width: 12px;
     height: 20px;
-    background: #92c1ae;
+    background: #333;
     top: 5px;
     left: 94px;
     animation-timing-function: linear;
@@ -116,7 +118,7 @@
 
 .btn-cart:focus>span:after {
     content: "ADDED";
-    color: green;
+    color: rgb(1, 210, 1);
     position: absolute;
     z-index: 100;
     left: 50%;
