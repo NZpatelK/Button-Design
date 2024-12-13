@@ -38,6 +38,7 @@ const links = {
   'Download Button Animation': '/download-button-animation',
   'Booking Button': '/booking-button',
   'Add To My Bag': '/add-to-my-bag-button',
+  'Order Truck': '/order-truck-button',
   
 };
 
