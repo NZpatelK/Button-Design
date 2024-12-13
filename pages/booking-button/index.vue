@@ -80,7 +80,7 @@
     transition: width 0.25s;
     border-radius: 6px;
     box-shadow: 0 10px 10px -5px hsl(0 0% 0% / 0.5);
-    book-btn-container-type: inline-size;
+    container-type: inline-size;
 }
 
 .primary {
@@ -91,7 +91,7 @@
     z-index: 2;
     -webkit-mask: var(--mask-image) 50% 50% / var(--size) var(--size) no-repeat;
     mask: var(--mask-image) 50% 50% / var(--size) var(--size) no-repeat;
-    book-btn-container-type: inline-size;
+    container-type: inline-size;
 }
 
 :where(.primary, .complimentary)::after {
