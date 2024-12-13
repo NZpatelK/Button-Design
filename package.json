@@ -16,6 +16,7 @@
     "@fortawesome/free-solid-svg-icons": "^6.7.1",
     "@fortawesome/vue-fontawesome": "^3.0.8",
     "boxicons": "^2.1.4",
+    "normalize.css": "^8.0.1",
     "nuxt": "^3.14.1592",
     "reset-css": "^5.0.2",
     "vue": "latest",
