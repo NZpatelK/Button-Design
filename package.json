@@ -16,6 +16,7 @@
     "@fortawesome/free-solid-svg-icons": "^6.7.1",
     "@fortawesome/vue-fontawesome": "^3.0.8",
     "boxicons": "^2.1.4",
+    "canvas-confetti": "^1.9.3",
     "gsap": "^3.12.5",
     "nuxt": "^3.14.1592",
     "vue": "latest",

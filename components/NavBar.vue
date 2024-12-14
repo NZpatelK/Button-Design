@@ -39,7 +39,7 @@ const links = {
   'Booking Button': '/booking-button',
   'Add To My Bag': '/add-to-my-bag-button',
   'Order Truck': '/order-truck-button',
-  
+  'Confetti Button': '/confetti-button',
 };
 
 const tabs = Object.keys(links);
