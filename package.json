@@ -4,6 +4,7 @@
   "type": "module",
   "scripts": {
     "build": "nuxt build",
+    "deploy": "nuxt generate && gh-pages --dotfiles -d .output/public",
     "dev": "nuxt dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
@@ -21,5 +22,8 @@
     "nuxt": "^3.14.1592",
     "vue": "latest",
     "vue-router": "latest"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.2.0"
   }
 }
