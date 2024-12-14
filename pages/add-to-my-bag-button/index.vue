@@ -3,7 +3,7 @@
         <button class="button btn-cart">
             <span>
                 <span>
-                    Add to My Bag 1
+                    Add to My Bag 
                 </span>
             </span>
         </button>

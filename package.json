@@ -4,7 +4,7 @@
   "type": "module",
   "scripts": {
     "build": "nuxt build",
-    "deploy": "nuxt generate && gh-pages --dotfiles -d .output/public",
+    "deploy": "nuxt generate && gh-pages -d dist",
     "dev": "nuxt dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview",

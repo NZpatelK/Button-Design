@@ -603,15 +603,4 @@ const setLabel = (oldLabel, newLabel, callback) => {
     padding: 20px;
 }
 
-.download-button-animation-container .dribbble {
-    position: fixed;
-    display: block;
-    right: 20px;
-    bottom: 20px;
-}
-
-.download-button-animation-container .dribbble img {
-    display: block;
-    height: 28px;
-}
 </style>
