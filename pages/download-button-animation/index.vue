@@ -48,7 +48,6 @@
 <script setup>
 
 import { ref } from 'vue';
-import 'reset-css';
 
 
 const isActive = ref(false);
@@ -591,20 +590,6 @@ const setLabel = (oldLabel, newLabel, callback) => {
     margin-right: 4px;
     display: inline-block;
     vertical-align: top;
-}
-
-html {
-    box-sizing: border-box;
-    -webkit-font-smoothing: antialiased;
-}
-
-* {
-    box-sizing: inherit;
-}
-
-*:before,
-*:after {
-    box-sizing: inherit;
 }
 
 .download-button-animation-container {

@@ -19,7 +19,6 @@
 </template>
 
 <script setup>
-import 'reset-css';
 
 import { ref } from 'vue';
 import gsap from 'gsap';

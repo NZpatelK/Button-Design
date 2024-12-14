@@ -13,7 +13,6 @@
 </template>
 
 <style>
-@import 'normalize.css';
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
 
@@ -151,7 +150,7 @@
         var(--mask-image) calc(50% + (var(--spread) * 3)) 50% / var(--size) var(--size) no-repeat;
 }
 
-button>span:nth-of-type(2) {
+.book-btn>span:nth-of-type(2) {
     padding: 0 1.1rem 0 calc(58px + 1.1rem);
     display: grid;
     place-items: center;
