@@ -1,0 +1,1 @@
+import{_ as o,c as t,a as n,o as s}from"./CZoEm6L5.js";const c={},r={class:"container"};function a(i,e){return s(),t("div",r,e[0]||(e[0]=[n("h1",null,"Welcome to My Button Design Portfolio",-1)]))}const _=o(c,[["render",a]]);export{_ as default};

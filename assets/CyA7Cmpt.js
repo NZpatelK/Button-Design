@@ -1,0 +1,1 @@
+import{_ as a,c as t,a as s,o}from"./CZoEm6L5.js";const n={},r={class:"aqua-container"};function c(_,e){return o(),t("div",r,e[0]||(e[0]=[s("a",{href:"#",class:"aqua-button"},"Aqua Water",-1)]))}const f=a(n,[["render",c]]);export{f as default};

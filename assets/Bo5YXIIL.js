@@ -1,0 +1,1 @@
+import{_ as s,c,a as e,o as n}from"./CZoEm6L5.js";const t={},a={class:"dark-switch-container"};function i(r,o){return n(),c("div",a,o[0]||(o[0]=[e("label",null,[e("input",{type:"checkbox"}),e("span"),e("i",{class:"indicator on"},"i"),e("i",{class:"indicator off"},"o")],-1)]))}const d=s(t,[["render",i]]);export{d as default};

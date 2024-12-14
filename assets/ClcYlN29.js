@@ -1,1 +1,0 @@
-import{_ as s,c as t,a as e,o as c}from"./DTocal3Z.js";const n={},a={class:"light-switch-container"};function i(r,o){return c(),t("div",a,o[0]||(o[0]=[e("label",null,[e("input",{type:"checkbox"}),e("span"),e("i",{class:"indicator on"},"i"),e("i",{class:"indicator off"},"o")],-1)]))}const d=s(n,[["render",i]]);export{d as default};
